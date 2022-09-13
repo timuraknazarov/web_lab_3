@@ -40,6 +40,7 @@ a:hover{
 article{
     max-width: 500px;
     margin: 40px;
+    text-align: justify;
 }
 
 article::selection{
